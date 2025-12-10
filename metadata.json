@@ -1,0 +1,5 @@
+{
+  "name": "Simple Mermaid Studio",
+  "description": "A modern, live-rendering Mermaid.js diagram editor with theme support and export capabilities.",
+  "requestFramePermissions": []
+}
